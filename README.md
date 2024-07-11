@@ -1,0 +1,2 @@
+# Python Mini-Projects
+The 81 projects are from the book <i>The Big Book of Small Python Projects by Al Sweigart.</i> I am doing these problems to improve my problem-solving skills and plan on finishing all questions by the end of 2024. 
